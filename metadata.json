@@ -1,0 +1,6 @@
+{
+  "name": "PenMouse S - S Pen Air Mouse",
+  "description": "Control your on-screen cursor using Samsung Galaxy S Pen air gestures and gyroscope motions, with custom cursors, sensitivity tuning, and setup guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
